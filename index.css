@@ -1,0 +1,29 @@
+body {
+    background-color: #707770;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.JOKE {
+    color: rgb(40, 124, 78);
+    background-color: aquamarine;
+    border-radius: 50px;
+    border-width: 20px;
+    border-color: black;
+}
+
+.joke-general{
+    color: #28af28;
+    background-color: lightgreen;
+}
+
+.joke-programming{
+    color: #17a098;
+    background-color: darkblue;
+}
+
+.joke-knock-knock {
+    color: darkred;
+    background-color: #ffc234;
+}
